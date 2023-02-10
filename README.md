@@ -8,3 +8,5 @@ I learned that while there are many ways to achieve similar goals, some are bett
 
 [https://skjauch.github.io/Horiseon-Website-Accessibilty-Check/]
 
+[Screenshot of Horiseon Website](assets/images/Horiseon%20Website%20Accessibilty-Jauch.png)
+
